@@ -1,4 +1,4 @@
-#Exploratory Data Analysis and Classification Example
+# Exploratory Data Analysis and Classification Example
 
 "fraud_data_EDA_model.ipynb" is the jupyter notebook file for Fraud_Data.csv file, which you can download from Kaggle. (https://www.kaggle.com/preritsaxena/fraud-detection) I've put a lot of comments in this file. I also explained logistic regression in a very round-about way, so I also included my logistic regression implementation from scratch.
 
